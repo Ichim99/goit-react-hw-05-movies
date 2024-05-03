@@ -20,7 +20,6 @@ export const FilmsItem = styled.li`
     background-color: #ffc700;
     color: #111111;
   }
-
   a {
     display: block;
     padding: 16px 16px;
